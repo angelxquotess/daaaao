@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "language": {
+      "value": "Italian",
+      "updated": "2026-08-23"
+    }
+  },
+  "preferences": {
+    "favorite_food": {
+      "value": "pizza",
+      "updated": "2026-07-02"
+    },
+    "read_archived_chats": {
+      "value": "false",
+      "updated": "2026-09-04"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "sessions": []
+}
